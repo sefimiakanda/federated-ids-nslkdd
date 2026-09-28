@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data & outputs (competition files should not be redistributed)
+data/*.csv
+data/*.txt
+submission.csv
+*.pt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
